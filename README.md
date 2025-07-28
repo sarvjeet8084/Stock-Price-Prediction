@@ -1,5 +1,4 @@
 # Stock-Price-Prediction
-This is my stock price prediction 
 
 **🚀 Project: Stock Price Prediction Using LSTM**
 🧠 Objective:
